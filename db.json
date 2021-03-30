@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "country":"India",
+            "state":"Gujarat",
+            "city":"vadodara",	
+            "hub_name":"Test",	
+            "total_ev":"1",	
+            "total_charger":"1",
+            "total_connectors":"1",	
+            "total_batteries":"1"
+        },
+        {
+            "country":"India_test",
+            "state":"Gujarat_test",
+            "city":"vadodara_test",	
+            "hub_name":"Test",	
+            "total_ev":"1",	
+            "total_charger":"1",
+            "total_connectors":"1",	
+            "total_batteries":"1"
+        }
+    ]
+}
